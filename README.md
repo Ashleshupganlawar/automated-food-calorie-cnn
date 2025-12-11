@@ -56,3 +56,20 @@ The pipeline is broken into these blocks:
 │  ├─ output_eggplant.png             # Eggplant prediction screenshot
 │  └─ system_architecture.png         # Architecture diagram
 └─ README.md
+
+
+
+
+---
+
+### Quick checklist for you
+
+1. Create `images/` folder in the repo.
+2. Save your three screenshots as:
+   - `images/output_cabbage.png`
+   - `images/output_eggplant.png`
+   - `images/system_architecture.png`
+3. Add this `README.md`.
+4. Commit + push.
+
+If you want, send me your GitHub repo link after pushing and I can suggest a short, human project description for the repo as well.
